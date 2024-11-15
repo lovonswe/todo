@@ -34,6 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # My Project
 
 ## Home page:
-<img src="assets/images/landingpage.png" alt="Geolocation" width="700" />
+<img src="src/assets/images/homepageall.png" alt="Geolocation" width="700" />
 
 
